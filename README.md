@@ -1,8 +1,8 @@
 # alg_FernandezRaulUO278036
-Repositorio para la asignatura de Algoritmia en el Grado de Ingeniería Informática del Software de la Universidad de Oviedo
+Repositorio para la asignatura de Algoritmia en el Grado de IngenierÃ­a InformÃ¡tica del Software de la Universidad de Oviedo
 
 ## Información
-**Estudiante**: Ra�l Fern�ndez Espa�a
+**Estudiante**: Raúl Fernández España
 
 **Correo**: uo278036@uniovi.es
 
